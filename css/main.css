@@ -1,22 +1,46 @@
 body
 {
-background-color: black;
+background-color: #101010;
 }
-li{
-    color: green;
-}
+
 h1
-{
-    color: green;
+{ 
+    font-family: 'VT323', monospace;
+    font-size: 48.82px;
+    color: greenyellow;
 }
 h6
-{
+{   font-size: 12.8px;
     color: green;
 
 }
-p{
+p{ 
+    line-height: 1.47;
     color: green;
 }
+
 h4{
-    color: green;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 16px;
+    color: rgb(245, 101, 101);
+}
+
+li{ 
+    font-family: 'VT323', monospace;
+    font-size: 25px;
+    color: greenyellow;
+   margin:0 0 50px 0;   
+}
+
+.quotes{
+    color: #9e9c9c;
+    font-family: 'Ubuntu Mono';
+    font-size: 20px;
+    font-kerning: normal;
+    line-height: 1.47;
+
+}
+
+#color_bonus {
+    color: yellowgreen;
 }
